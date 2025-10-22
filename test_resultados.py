@@ -20,5 +20,7 @@ def test_operacion_combinada_negativa():
     """Prueba la integración con negativos."""
     resultado = restar(sumar(-5, 2), 4)
     assert resultado == -7
+    
+    
 
 # <-- ASEGÚRATE DE DEJAR UNA LÍNEA VACÍA AQUÍ AL FINAL DEL ARCHIVO
