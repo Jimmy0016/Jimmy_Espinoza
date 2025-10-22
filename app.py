@@ -5,7 +5,7 @@ def restar(a, b):
     return a - b
 
 if __name__ == "__main__":
-    print("Resul")
+    print("Resultados")
     x = float(input("Ingresa el primer número: "))
     y = float(input("Ingresa el segundo número: "))
 
